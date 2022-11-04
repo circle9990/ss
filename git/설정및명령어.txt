@@ -1,21 +1,21 @@
-git°³³ä
-·ÎÄÃ(workingÆú´õ-------->stage------>local·¹ÆÄÁöÅä¸®)------->remote·¹ÆÄÁöÅä¸®
+gitê°œë…
+ë¡œì»¬(workingí´ë”-------->stage------>localë ˆíŒŒì§€í† ë¦¬)------->remoteë ˆíŒŒì§€í† ë¦¬
                 add         commit                push
 
-·ÎÄÃ(workingÆú´õ<--------stage------local·¹ÆÄÁöÅä¸®)<-------remote·¹ÆÄÁöÅä¸®
+ë¡œì»¬(workingí´ë”<--------stage------localë ˆíŒŒì§€í† ë¦¬)<-------remoteë ˆíŒŒì§€í† ë¦¬
                 remove                            pull               
 
-- ÅäÅ«»ı¼º(pushÇÏ·Á¸é id/pw¸¦ È®ÀÎÇÏ´Âµ¥ pw¿¡ ÅäÅ«¸¸ °¡´ÉÇÔ)
-¿ìÃø»ó´Ü ¾ÆÀÌÄÜÅ¬¸¯ > Settings > Developer settings > Personal access tokens > Tokens(classic)
-id : ÀÌ¸ŞÀÏ
+- í† í°ìƒì„±(pushí•˜ë ¤ë©´ id/pwë¥¼ í™•ì¸í•˜ëŠ”ë° pwì— í† í°ë§Œ ê°€ëŠ¥í•¨)
+ìš°ì¸¡ìƒë‹¨ ì•„ì´ì½˜í´ë¦­ > Settings > Developer settings > Personal access tokens > Tokens(classic)
+id : ì´ë©”ì¼
 pw : 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
 
-- git·¹ÆÄÁöÅä¸® -> local·¹ÆÄÁöÅä¸® º¹»ç 
+- gitë ˆíŒŒì§€í† ë¦¬ -> localë ˆíŒŒì§€í† ë¦¬ ë³µì‚¬ 
 1. eclipse > File > Import > Git > Projects From Git (with smart import) > Clone URI
-2. git·¹ÆÄÁöÅä¸®¿¡¼­ cloneÀ¸·Î °¡Á®¿È(Æú´õ¿¡ º¹»ç´Â µÇ³ª eclipse¿¡ Ç¥½ÃµÇÁö ¾ÊÀ½)
+2. gitë ˆíŒŒì§€í† ë¦¬ì—ì„œ cloneìœ¼ë¡œ ê°€ì ¸ì˜´(í´ë”ì— ë³µì‚¬ëŠ” ë˜ë‚˜ eclipseì— í‘œì‹œë˜ì§€ ì•ŠìŒ)
 
-add : stage(index)¿¡ ¿Ã¸²
-commit : local·¹ÆÄÁöÅä¸®¿¡ ¿Ã¸²
-push : local·¹ÆÄÁöÅä¸® -> remote¿¡ ¿Ã 
+add : stage(index)ì— ì˜¬ë¦¼
+commit : localë ˆíŒŒì§€í† ë¦¬ì— ì˜¬ë¦¼
+push : localë ˆíŒŒì§€í† ë¦¬ -> remoteì— ì˜¬ 
 
-pull : remote·¹ÆÄÁöÅä¸®¿¡¼­ -> local·¹ÆÄÁöÅä¸®·Î °¡Á®¿È  
+pull : remoteë ˆíŒŒì§€í† ë¦¬ì—ì„œ -> localë ˆíŒŒì§€í† ë¦¬ë¡œ ê°€ì ¸ì˜´  
