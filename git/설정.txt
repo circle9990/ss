@@ -1,9 +1,7 @@
-- git·¹ÆÄÁöÅä¸® -> local·¹ÆÄÁöÅä¸® º¹»ç
+- gitë ˆíŒŒì§€í† ë¦¬ -> localë ˆíŒŒì§€í† ë¦¬ ë³µì‚¬
 1. eclipse > File > Import > Git > Projects From Git (with smart import) > Clone URI
-2. git·¹ÆÄÁöÅä¸®¿¡¼­ cloneÀ¸·Î °¡Á®¿È(Æú´õ¿¡ º¹»ç´Â µÇ³ª eclipse¿¡ Ç¥½ÃµÇÁö ¾ÊÀ½)
+2. gitë ˆíŒŒì§€í† ë¦¬ì—ì„œ cloneìœ¼ë¡œ ê°€ì ¸ì˜´(í´ë”ì— ë³µì‚¬ëŠ” ë˜ë‚˜ eclipseì— í‘œì‹œë˜ì§€ ì•ŠìŒ)
 
-add : stage(index)¿¡ ¿Ã¸²
-commit : local·¹ÆÄÁöÅä¸®¿¡ ¿Ã¸²
-push : local·¹ÆÄÁöÅä¸® -> remote¿¡ ¿Ã¸²
-
- 
+add : stage(index)ì— ì˜¬ë¦¼
+commit : localë ˆíŒŒì§€í† ë¦¬ì— ì˜¬ë¦¼
+push : localë ˆíŒŒì§€í† ë¦¬ -> remoteì— ì˜¬ 
