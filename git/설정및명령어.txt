@@ -10,7 +10,7 @@ git개념
 id : 이메일
 pw : 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
 
-- git레파지토리 -> local레파지토리 복사
+- git레파지토리 -> local레파지토리 복사 
 1. eclipse > File > Import > Git > Projects From Git (with smart import) > Clone URI
 2. git레파지토리에서 clone으로 가져옴(폴더에 복사는 되나 eclipse에 표시되지 않음)
 
