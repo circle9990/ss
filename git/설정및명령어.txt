@@ -18,4 +18,4 @@ add : stage(index)에 올림
 commit : local레파지토리에 올림
 push : local레파지토리 -> remote에 올 
 
-pull : remote레파지토리에서 -> local레파지토리로 가져옴   
+pull : remote레파지토리에서 -> local레파지토리로 가져옴    
