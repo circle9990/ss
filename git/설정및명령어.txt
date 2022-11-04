@@ -1,3 +1,10 @@
+git개념
+로컬(working폴더-------->stage------>local레파지토리)------->remote레파지토리
+                add         commit                push
+
+로컬(working폴더<--------stage------local레파지토리)<-------remote레파지토리
+                remove                            pull               
+
 - 토큰생성(push하려면 id/pw를 확인하는데 pw에 토큰만 가능함)
 우측상단 아이콘클릭 > Settings > Developer settings > Personal access tokens > Tokens(classic)
 - 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
