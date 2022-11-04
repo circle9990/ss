@@ -2,3 +2,8 @@
 1. eclipse > File > Import > Git > Projects From Git (with smart import) > Clone URI
 2. git레파지토리에서 clone으로 가져옴(폴더에 복사는 되나 eclipse에 표시되지 않음)
 
+add : stage(index)에 올림
+commit : local레파지토리에 올림
+push : local레파지토리 -> remote에 올림
+
+ 
