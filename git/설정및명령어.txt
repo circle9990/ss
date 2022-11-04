@@ -9,7 +9,7 @@ git개념
 우측상단 아이콘클릭 > Settings > Developer settings > Personal access tokens > Tokens(classic)
 id : 이메일
 pw : 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
-
+ 
 - git레파지토리 -> local레파지토리 복사 
 1. eclipse > File > Import > Git > Projects From Git (with smart import) > Clone URI
 2. git레파지토리에서 clone으로 가져옴(폴더에 복사는 되나 eclipse에 표시되지 않음)
