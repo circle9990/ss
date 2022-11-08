@@ -21,9 +21,3 @@ push : local레파지토리 -> remote에 올림
 pull : remote레파지토리에서 -> local레파지토리로 가져옴     
 
 업로드 fileSize 100m이하
-
-
-
-
-
-1
